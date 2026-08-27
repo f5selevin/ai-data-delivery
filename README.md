@@ -10,10 +10,6 @@ The [Partner Spec Guide Viewer](https://github.com/f5selevin/partner-spec-guide-
 
 ## Install the Lab Guide Server on UDF
 
-Use the following repository as the lab guide source:
-
-- [AI Data Delivery lab guide](https://github.com/f5selevin/ai-data-delivery.git)
-
 Run the following command on the UDF host to register and install the lab guide server:
 
 ```shell
